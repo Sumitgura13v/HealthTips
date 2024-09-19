@@ -39,6 +39,7 @@ public class App {
 			int age = scan.nextInt();
 
 			System.out.println("Write Your Height(in CM) : ");
+			System.out.println("Hello World  ..");
 			double height = scan.nextDouble();
 
 			System.out.println("Write Your Gender(M/F) : ");
